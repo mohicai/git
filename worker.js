@@ -1,4 +1,4 @@
-const hub_host = 'github.com'
+const hub_host = env.HOST
 
 export default {
   async fetch(request, env, ctx) {
