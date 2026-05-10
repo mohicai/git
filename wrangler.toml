@@ -1,3 +1,3 @@
 name = "git"                    # 随你起
 main = "worker.js"           # ← 指向真实入口
-compatibility_date = "2025-12-15"
+compatibility_date = "2026-05-10"
